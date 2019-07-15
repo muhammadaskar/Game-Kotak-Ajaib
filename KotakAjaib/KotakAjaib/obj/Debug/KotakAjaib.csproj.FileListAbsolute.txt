@@ -1,0 +1,13 @@
+C:\Users\Muhammad Askar\source\repos\KotakAjaib\KotakAjaib\bin\Debug\KotakAjaib.exe.config
+C:\Users\Muhammad Askar\source\repos\KotakAjaib\KotakAjaib\bin\Debug\KotakAjaib.exe
+C:\Users\Muhammad Askar\source\repos\KotakAjaib\KotakAjaib\bin\Debug\KotakAjaib.pdb
+C:\Users\Muhammad Askar\source\repos\KotakAjaib\KotakAjaib\obj\Debug\KotakAjaib.csprojAssemblyReference.cache
+C:\Users\Muhammad Askar\source\repos\KotakAjaib\KotakAjaib\obj\Debug\KotakAjaib.Properties.Resources.resources
+C:\Users\Muhammad Askar\source\repos\KotakAjaib\KotakAjaib\obj\Debug\KotakAjaib.csproj.GenerateResource.cache
+C:\Users\Muhammad Askar\source\repos\KotakAjaib\KotakAjaib\obj\Debug\KotakAjaib.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Askar\source\repos\KotakAjaib\KotakAjaib\obj\Debug\KotakAjaib.exe
+C:\Users\Muhammad Askar\source\repos\KotakAjaib\KotakAjaib\obj\Debug\KotakAjaib.pdb
+C:\Users\Muhammad Askar\source\repos\KotakAjaib\KotakAjaib\obj\Debug\KotakAjaib.Permainan.resources
+C:\Users\Muhammad Askar\source\repos\KotakAjaib\KotakAjaib\obj\Debug\KotakAjaib.Menu.resources
+C:\Users\Muhammad Askar\source\repos\KotakAjaib\KotakAjaib\obj\Debug\KotakAjaib.PembuatPermainan.resources
+C:\Users\Muhammad Askar\source\repos\KotakAjaib\KotakAjaib\obj\Debug\KotakAjaib.Winner.resources
